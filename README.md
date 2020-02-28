@@ -25,5 +25,33 @@ Here we will list some of the problems.
 #### and if you don't know what is immutable history?
 #### _**immutable history**_ is the capability for a blockchain ledger to stay on a permanent and unalterable history of transactions. This is the important component that blockchain experts highlight as a key advantage.
 #### And the _**Security**_ of the BlockChain Because, Blockchain is a distributed database that provides a secure, yet the transparent way to make, record and verify any type of transaction.
+### We Only want to say that _**``` Bitcoin is not THE blockchain, it is A blockchain.```**_
+## Here is the Technologies we use 
+![Technologies](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/Technologies.jpg?raw=true) 
+Technologies | Used In
+------------ | -------------
+[hyperledger fabric](https://www.hyperledger.org/) | hyperledger is a distributed ledger we use to develop the BlockChain
+[Docker](https://www.docker.com/products/docker-hub) & [Kubernetes](https://www.docker.com/products/kubernetes) | Deployment blockchain service 
+[Flutter](https://flutter.dev/) | Cross-platform to make mobile application 
+[Node.js express](https://nodejs.org/) |  web services
+[Odoo](https://www.odoo.com/) | web
 
- 
+## If you now ask why we use hyperledger fabric not ethereum we hope that this compare clear this point 
+![Hyperledger vs Etherum](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/Hyperledger-vs-Etherum.png?raw=true) 
+
+### Here we come to speak about our Project 
+# Blockify
+### Blockify aims to provide patients with a secure and permissioned way to store their medical records and share it with their doctors.
+### We aim to do that using a Permissioned Blockchain Network as a backend, which provides an immutable history that ensures no one can tamper with the data
+### Our Mission is creating a secure system that records the history of the patients using blockchain technology.
+connect patients and medical institutes from all of the world through our system.
+### And our Vision and the passion that motivates us is To make all hospitals and patients connected digitally with each other without using paper and make a medical record history for each person
+
+### This is what the Patient can do in our application 
+![Patient](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/Patient%20life%20cycle.png?raw=true) 
+
+### And This is what the Doctor can do in our application 
+![Doctor](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/Doctor%20life%20cycle.png?raw=true) 
+
+## Now we came to our System Architecture And How the application work 
+![system arc](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/System%20Arc.png?raw=true) 
