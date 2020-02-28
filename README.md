@@ -15,10 +15,15 @@ Here we will list some of the problems.
 #### in the USA Total People Die From Medical Error due to Patient history is 250K and this is a huge number. 
  
 #### Now you may say that of course there are many Softwares that help to solve this problem. 
-#### And you are right there are tons of Softwares but But all of them are using the regular database **Centralized database** and these solutions have problems as they not secure enough to save patients' privacy as there is a lot of leaks for example [health tech](https://techcrunch.com/2019/03/17/medical-health-data-leak/) company was leaking thousands of doctor’s notes, medical records, and prescriptions daily, 
+#### And you are right there are tons of Softwares but But all of them are using the regular database _**Centralized database**_ and these solutions have problems as they not secure enough to save patients' privacy as there is a lot of leaks for example [health tech](https://techcrunch.com/2019/03/17/medical-health-data-leak/) company was leaking thousands of doctor’s notes, medical records, and prescriptions daily, here is an example of the record leaked of the database. 
 ![leack](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/medical-records.jpg?raw=true)
 #### And  None of the data was encrypted.
 #### Not only Health teach has been hacked but also other apps and governmental medical record systems have been hacked and you can found read about this [hear](https://www.propublica.org/article/millions-of-americans-medical-images-and-data-are-available-on-the-internet) and [hear](https://www.engadget.com/2019/07/31/32-million-patient-records-breached-2019/) or search about medical record systems data breach on the internet. 
 #### this is not the only disadvantage of the regular database but also there is another huge problem mutable history and this alow anyone who has access to the system database or hacker has access to edit anything he wanted and change or delete patients’ medical record.
 
-### We Solve all these Problems by Creating a new Medical Record System but using  **Blockchain** as a backend database that has two main advantages immutable history and the high level of security  
+### We Solve all these Problems by Creating a new Medical Record System but using  _**Blockchain**_ as a backend database that has two main advantages immutable history and the high level of security.
+#### and if you don't know what is immutable history?
+#### _**immutable history**_ is the capability for a blockchain ledger to stay on a permanent and unalterable history of transactions. This is the important component that blockchain experts highlight as a key advantage.
+#### And the _**Security**_ of the BlockChain Because, Blockchain is a distributed database that provides a secure, yet the transparent way to make, record and verify any type of transaction.
+
+ 
