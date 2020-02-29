@@ -1,7 +1,8 @@
-![Blockify logo](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/logo.png?raw=true)
+<p align="center">
+  <img alt="Blockify Logo" src="https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/logo.png?raw=true">
+</p>
 
-## Blockify is a Secure Medical Record Using BlockChain.
-
+ ## Blockify is a Secure Medical Record Using BlockChain.
 
 ##### Maybe you ask why we create Blockify or what is the purpose behind this project.
 
@@ -28,13 +29,13 @@ Here we will list some of the problems.
 ### We Only want to say that _**``` Bitcoin is not THE blockchain, it is A blockchain.```**_
 ## Here is the Technologies we use 
 ![Technologies](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/Technologies.jpg?raw=true) 
-Technologies | Used In
------------- | -------------
-[hyperledger fabric](https://www.hyperledger.org/) | hyperledger is a distributed ledger we use to develop the BlockChain
-[Docker](https://www.docker.com/products/docker-hub) & [Kubernetes](https://www.docker.com/products/kubernetes) | Deployment blockchain service 
-[Flutter](https://flutter.dev/) | Cross-platform to make mobile application 
-[Node.js express](https://nodejs.org/) |  web services
-[Odoo](https://www.odoo.com/) | web
+|Technologies | Used In|
+|------------ | -------------|
+|[hyperledger fabric](https://www.hyperledger.org/) | Hyperledger is a distributed ledger we use to develop the BlockChain|
+|[Docker](https://www.docker.com/products/docker-hub) & [Kubernetes](https://www.docker.com/products/kubernetes) | Deployment blockchain service |
+|[Flutter](https://flutter.dev/) | Cross-platform to develop mobile application |
+|[Node.js express](https://nodejs.org/) |  Web services development|
+|[Odoo](https://www.odoo.com/) | Web user interface development|
 
 ## If you now ask why we use hyperledger fabric not ethereum we hope that this compare clear this point 
 ![Hyperledger vs Etherum](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/Hyperledger-vs-Etherum.png?raw=true) 
