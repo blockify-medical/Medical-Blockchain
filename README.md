@@ -6,7 +6,7 @@
 ## Blockify is a Secure Medical Record Using BlockChain.
 
 ##### Project Source Code is owend faculty of computer and information Mansoura University and can't upload it without it's permeation.
-[![Blockify](https://res.cloudinary.com/marcomontalbano/image/upload/v1588509560/video_to_markdown/images/google-drive--1WFTbmwRqvyPrb95R0KqXYiILvA7ORIrA-c05b58ac6eb4c4700831b2b3070cd403.jpg)]https://youtu.be/1c3yqArmKNA "Blockify")
+[![What is Blockify](https://img.youtube.com/vi/1c3yqArmKNA/0.jpg)](https://youtu.be/1c3yqArmKNA "What is Blockify")
 
 ##### Maybe you ask why we create Blockify or what is the purpose behind this project.
 
