@@ -1,4 +1,6 @@
-![Blockify logo](https://github.com/EslamHiko/Medical-Blockchain/blob/master/Pics/logo.png?raw=true)
+<p align="center">
+  <img alt="Blockify Logo" src="https://github.com/EslamHiko/Medical-Blockchain/blob/master/Pics/logo.png?raw=true">
+</p>
 
 ## Blockify is a Secure Medical Record Using BlockChain.
 
