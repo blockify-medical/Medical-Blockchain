@@ -1,4 +1,4 @@
-![Blockify logo](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/logo.png?raw=true)
+![Blockify logo](https://github.com/EslamHiko/Medical-Blockchain/blob/master/Pics/logo.png?raw=true)
 
 ## Blockify is a Secure Medical Record Using BlockChain.
 
@@ -16,7 +16,7 @@ Here we will list some of the problems.
  
 #### Now you may say that of course there are many Softwares that help to solve this problem. 
 #### And you are right there are tons of Softwares but But all of them are using the regular database _**Centralized database**_ and these solutions have problems as they not secure enough to save patients' privacy as there is a lot of leaks for example [health tech](https://techcrunch.com/2019/03/17/medical-health-data-leak/) company was leaking thousands of doctor’s notes, medical records, and prescriptions daily, here is an example of the record leaked of the database. 
-![leack](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/medical-records.jpg?raw=true)
+![leack](https://github.com/EslamHiko/Medical-Blockchain/blob/master/Pics/medical-records.jpg?raw=true)
 #### And  None of the data was encrypted.
 #### Not only Health teach has been hacked but also other apps and governmental medical record systems have been hacked and you can found read about this [hear](https://www.propublica.org/article/millions-of-americans-medical-images-and-data-are-available-on-the-internet) and [hear](https://www.engadget.com/2019/07/31/32-million-patient-records-breached-2019/) or search about medical record systems data breach on the internet. 
 #### this is not the only disadvantage of the regular database but also there is another huge problem mutable history and this alow anyone who has access to the system database or hacker has access to edit anything he wanted and change or delete patients’ medical record.
@@ -27,7 +27,7 @@ Here we will list some of the problems.
 #### And the _**Security**_ of the BlockChain Because, Blockchain is a distributed database that provides a secure, yet the transparent way to make, record and verify any type of transaction.
 ### We Only want to say that _**``` Bitcoin is not THE blockchain, it is A blockchain.```**_
 ## Here is the Technologies we use 
-![Technologies](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/Technologies.jpg?raw=true) 
+![Technologies](https://github.com/EslamHiko/Medical-Blockchain/blob/master/Pics/Technologies.jpg?raw=true) 
 Technologies | Used In
 ------------ | -------------
 [hyperledger fabric](https://www.hyperledger.org/) | hyperledger is a distributed ledger we use to develop the BlockChain
@@ -37,7 +37,7 @@ Technologies | Used In
 [Odoo](https://www.odoo.com/) | web
 
 ## If you now ask why we use hyperledger fabric not ethereum we hope that this compare clear this point 
-![Hyperledger vs Etherum](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/Hyperledger-vs-Etherum.png?raw=true) 
+![Hyperledger vs Etherum](https://github.com/EslamHiko/Medical-Blockchain/blob/master/Pics/Hyperledger-vs-Etherum.png?raw=true) 
 
 ### Here we come to speak about our Project 
 # Blockify
@@ -48,10 +48,10 @@ connect patients and medical institutes from all of the world through our system
 ### And our Vision and the passion that motivates us is To make all hospitals and patients connected digitally with each other without using paper and make a medical record history for each person
 
 ### This is what the Patient can do in our application 
-![Patient](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/Patient%20life%20cycle.png?raw=true) 
+![Patient](https://github.com/EslamHiko/Medical-Blockchain/blob/master/Pics/Patient%20life%20cycle.png?raw=true) 
 
 ### And This is what the Doctor can do in our application 
-![Doctor](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/Doctor%20life%20cycle.png?raw=true) 
+![Doctor](https://github.com/EslamHiko/Medical-Blockchain/blob/master/Pics/Doctor%20life%20cycle.png?raw=true) 
 
 ## Now we came to our System Architecture And How the application work 
-![system arc](https://github.com/blockify-medical/Medical-Blockchain/blob/master/Pics/System%20Arc.png?raw=true) 
+![system arc](https://github.com/EslamHiko/Medical-Blockchain/blob/master/Pics/System%20Arc.png?raw=true) 
